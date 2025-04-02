@@ -1,5 +1,5 @@
 <div align="center">
-# StudyBud
+StudyBud
 </div>
 
 ### Cloning the repository
