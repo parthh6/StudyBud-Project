@@ -9,4 +9,5 @@ pytz==2021.1
 sqlparse==0.4.2
 toml==0.10.2
 whitenoise==6.6.0
+gunicorn==22.0.0
 setuptools>=42
