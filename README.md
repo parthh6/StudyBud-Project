@@ -54,7 +54,6 @@ python manage.py runserver
 
 --> https://studybud-fz2w.onrender.com
 
-```
 
 
 
